@@ -24,7 +24,7 @@ public class q2 {
 	}
 
 	public static void main(String[] args) {
-		q2.parseLoop("AaAaAaAaAaAaAaAAaAaAaAaAaAaAaAaAb");
+		q2.parseLoop("AaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAb");
 		q2.parseLoop("AaAaAaAA");
 		q2.parseLoop("AaAaAaA");
 		q2.parseLoop("bb");
